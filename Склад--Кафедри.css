@@ -1,0 +1,577 @@
+ .u-section-1 {
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(241, 197, 14, 0.25), rgba(241, 197, 14, 0.25)), url('images/goroda-zdaniya-doma-odessa-opernyj-teatr-113015.jpg');
+  background-size: cover, cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 176px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  margin: 55px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 145px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 111px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 83px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 52px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px 258px 0 auto;
+}
+
+.u-section-2 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -27px 26px 277px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    margin-left: 77px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 198px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 149px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+    margin-right: 94px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px auto 0 277px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-3 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -27px 26px 277px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-2 {
+    margin-left: 77px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 212px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 159px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 100px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px auto 0 277px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-4 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -27px 26px 277px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-text-2 {
+    margin-left: 77px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-1 {
+    margin-left: 212px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 159px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 100px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px auto 0 277px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-5 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -27px 26px 277px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-text-2 {
+    margin-left: 77px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-text-1 {
+    margin-left: 212px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 159px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 100px;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-6 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px auto 0 277px;
+}
+
+.u-section-6 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-6 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -27px 26px 277px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-text-2 {
+    margin-left: 77px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-text-1 {
+    margin-left: 212px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 159px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 100px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-7 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px auto 0 277px;
+}
+
+.u-section-7 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-7 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -27px 26px 277px;
+}
+
+.u-section-7 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-text-2 {
+    margin-left: 77px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-text-1 {
+    margin-left: 212px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 159px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 100px;
+  }
+}.u-section-8 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-8 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px auto 0;
+}
+
+.u-section-8 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-8 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -28px 60px 278px;
+}
+
+.u-section-8 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-text-2 {
+    margin-left: 78px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-9 .u-sheet-1 {
+  min-height: 368px;
+}
+
+.u-section-9 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 37px auto 0;
+}
+
+.u-section-9 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -61px auto 0 -31px;
+}
+
+.u-section-9 .u-text-2 {
+  font-weight: 400;
+  margin: -230px -28px 60px 278px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-2 {
+    margin-left: 78px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-10 .u-sheet-1 {
+  min-height: 428px;
+}
+
+.u-section-10 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 36px auto 0 278px;
+}
+
+.u-section-10 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -60px auto 0 -31px;
+}
+
+.u-section-10 .u-text-2 {
+  font-weight: 400;
+  margin: -230px auto 0 278px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-text-2 {
+    margin-left: 78px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-text-1 {
+    margin-left: 213px;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 160px;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 101px;
+  }
+} .u-section-11 {
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(241, 197, 14, 0.25), rgba(241, 197, 14, 0.25)), url('images/goroda-zdaniya-doma-odessa-opernyj-teatr-113015.jpg');
+  background-size: cover, cover;
+}
+
+.u-section-11 .u-sheet-1 {
+  min-height: 88px;
+}
+
+.u-section-11 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,1);
+  margin: 11px auto;
+}
+
+@media (max-width: 767px) {
+  .u-section-11 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-11 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}.u-section-12 .u-sheet-1 {
+  min-height: 428px;
+}
+
+.u-section-12 .u-text-1 {
+  font-size: 3.75rem;
+  text-shadow: 2px 2px 8px rgba(255,255,255,1);
+  margin: 64px auto 0 278px;
+}
+
+.u-section-12 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  margin: -66px auto 0 -31px;
+}
+
+.u-section-12 .u-text-2 {
+  font-weight: 400;
+  margin: -224px -28px 60px 278px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-12 .u-text-2 {
+    margin-left: 78px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-12 .u-text-1 {
+    margin-left: 213px;
+  }
+
+  .u-section-12 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-12 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 60px;
+    margin-left: 160px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-12 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 101px;
+  }
+}
